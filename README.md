@@ -1,10 +1,10 @@
 # How can customize the filter and advanced filter appearance of  WPF DataGrid (SfDataGrid) ? 
 
-How can customize the filter and advanced filter appearance of  WPF DataGrid (SfDataGrid) ? 
+This sample show cases how can customize the filter and advanced filter appearance of  [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) ? 
 
 # About the sample
 
-In SfDataGrid, you customize the appearance of GridFilterControl and AdvancedFilterControl by overriding its ControlTemplate.
+You can customize the appearance of [GridFilterControl](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.GridFilterControl.html) and [AdvancedFilterControl](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.AdvancedFilterControl.html) by overriding its ControlTemplate in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
 ```Xaml
 <!--Filter Style-->
