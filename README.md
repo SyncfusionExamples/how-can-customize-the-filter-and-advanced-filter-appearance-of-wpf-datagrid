@@ -36,5 +36,8 @@ You can customize the appearance of [GridFilterControl](https://help.syncfusion.
     </Setter>
 </Style>
 ```
+
+KB article - [How can customize the filter and advanced filter appearance of WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12008/how-to-customize-the-filter-and-advanced-filter-appearance-of-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
  Visual Studio 2015 and above versions
